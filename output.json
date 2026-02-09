@@ -1,0 +1,240 @@
+[
+  {
+    "username": "torvalds",
+    "repos": [
+      {
+        "name": "1590A",
+        "description": "Random odd guitar pedal design in kicad",
+        "stars": 392,
+        "language": "OpenSCAD"
+      },
+      {
+        "name": "libdc-for-dirk",
+        "description": "Only use for syncing with Dirk, don't use for anything else",
+        "stars": 275,
+        "language": "C"
+      },
+      {
+        "name": "libgit2",
+        "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+        "stars": 210,
+        "language": "C"
+      },
+      {
+        "name": "linux",
+        "description": "Linux kernel source tree",
+        "stars": 199575,
+        "language": "C"
+      },
+      {
+        "name": "pesconvert",
+        "description": "Brother PES file converter",
+        "stars": 444,
+        "language": "C"
+      },
+      {
+        "name": "subsurface-for-dirk",
+        "description": "Do not use - the real upstream is  Subsurface-divelog/subsurface",
+        "stars": 338,
+        "language": "C++"
+      },
+      {
+        "name": "test-tlb",
+        "description": "Stupid memory latency and TLB tester",
+        "stars": 806,
+        "language": "C"
+      },
+      {
+        "name": "uemacs",
+        "description": "Random version of microemacs with my private modificatons",
+        "stars": 1527,
+        "language": "C"
+      }
+    ]
+  },
+  {
+    "username": "gaearon",
+    "repos": [
+      {
+        "name": "6to5",
+        "description": "Turn ES6+ code into readable vanilla ES5 with source maps and more!",
+        "stars": 2,
+        "language": "JavaScript"
+      },
+      {
+        "name": "6to5-loader",
+        "description": "6to5 webpack loader",
+        "stars": 1,
+        "language": "JavaScript"
+      },
+      {
+        "name": "additive-animation",
+        "description": "Additive animation npm module",
+        "stars": 2,
+        "language": "JavaScript"
+      },
+      {
+        "name": "ama",
+        "description": "Ask me anything!",
+        "stars": 223,
+        "language": null
+      },
+      {
+        "name": "amas",
+        "description": "Awesome & Marvelous Amas",
+        "stars": 6,
+        "language": null
+      },
+      {
+        "name": "Ambidex",
+        "description": "Effortlessly host your React app on both the client and the server.  Some call it isomorphic JavaScript - we call it Ambidex.",
+        "stars": 4,
+        "language": "JavaScript"
+      },
+      {
+        "name": "amok",
+        "description": "Develop your web application without reloading",
+        "stars": 3,
+        "language": "JavaScript"
+      },
+      {
+        "name": "analysis-solutions",
+        "description": "My solutions to Tao's Analysis I, formalized in Lean",
+        "stars": 33,
+        "language": "Lean"
+      },
+      {
+        "name": "aphrodite",
+        "description": "It's inline styles, but they work!",
+        "stars": 1,
+        "language": "JavaScript"
+      },
+      {
+        "name": "autobind-decorator",
+        "description": "Decorator to automatically bind methods to class instances",
+        "stars": 6,
+        "language": "JavaScript"
+      },
+      {
+        "name": "awesome-create-react-app",
+        "description": "Awesome list of Create React App articles / tutorials / videos and FAQ",
+        "stars": 16,
+        "language": null
+      },
+      {
+        "name": "awesome-made-by-russians",
+        "description": "🇷🇺 The best open source projects that were made and mainly contributed by Russian developers",
+        "stars": 86,
+        "language": null
+      },
+      {
+        "name": "awesome-react",
+        "description": "A collection of awesome React libraries, resources and shiny things.",
+        "stars": 17,
+        "language": null
+      },
+      {
+        "name": "awesome-redux",
+        "description": "Awesome list of Redux examples and middlewares",
+        "stars": 17,
+        "language": null
+      },
+      {
+        "name": "babel-handbook",
+        "description": ":blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.",
+        "stars": 13,
+        "language": null
+      },
+      {
+        "name": "babel-plugin-flow-comments",
+        "description": "Turn flow type annotations into comments.",
+        "stars": 1,
+        "language": "JavaScript"
+      },
+      {
+        "name": "babel-plugin-functional-hmr",
+        "description": "Babel plugin enables HMR for functional components in React Native.",
+        "stars": 6,
+        "language": null
+      },
+      {
+        "name": "babel-plugin-react-transform",
+        "description": "Babel plugin to instrument React components with custom transforms",
+        "stars": 1073,
+        "language": "JavaScript"
+      },
+      {
+        "name": "babel-sublime",
+        "description": "Syntax definitions for ES6 JavaScript with React JSX extensions.",
+        "stars": 2,
+        "language": "JavaScript"
+      },
+      {
+        "name": "babel.github.io",
+        "description": null,
+        "stars": 8,
+        "language": "CSS"
+      },
+      {
+        "name": "Backbone.localStorage",
+        "description": "A localStorage adapter for Backbone.js",
+        "stars": 1,
+        "language": "JavaScript"
+      },
+      {
+        "name": "Backbone.NativeAjax",
+        "description": "A Backbone.Ajax function powered by native XHR methods",
+        "stars": 1,
+        "language": "JavaScript"
+      },
+      {
+        "name": "Backbone.NativeView",
+        "description": "A reference implementation of a native Backbone.View ",
+        "stars": 1,
+        "language": null
+      },
+      {
+        "name": "base16-js",
+        "description": "Base16 themes in JS",
+        "stars": 33,
+        "language": "JavaScript"
+      },
+      {
+        "name": "berlinjs.org",
+        "description": "The official BerlinJS website",
+        "stars": 2,
+        "language": null
+      },
+      {
+        "name": "bluebird",
+        "description": "Bluebird is a full featured promise library with unmatched performance.",
+        "stars": 1,
+        "language": null
+      },
+      {
+        "name": "boilerplate-webpack-react",
+        "description": "Boilerplate project for Reactjs with webpack, gulp and stylus",
+        "stars": 3,
+        "language": "JavaScript"
+      },
+      {
+        "name": "bullentin-board",
+        "description": "ReactJS Bulletin Board",
+        "stars": 6,
+        "language": "JavaScript"
+      },
+      {
+        "name": "bundle-loader",
+        "description": "bundle loader for webpack",
+        "stars": 1,
+        "language": null
+      },
+      {
+        "name": "cancellation",
+        "description": "A method for making async operations cancellable",
+        "stars": 1,
+        "language": "JavaScript"
+      }
+    ]
+  }
+]
